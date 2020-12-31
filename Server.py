@@ -1,6 +1,3 @@
-# "C:/Users/Danielle Lavi/AppData/Local/Programs/Python/Python37/python.exe" "c:/Users/Danielle Lavi/Desktop/תקשורת/Hackathon/Server.py"
-# "C:/Users/Danielle Lavi/AppData/Local/Programs/Python/Python37/python.exe" "c:/Users/Danielle Lavi/Downloads/תקשורת/Server.py"
-
 import socket
 import time
 import struct

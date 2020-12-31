@@ -1,5 +1,3 @@
-# "C:/Users/Danielle Lavi/AppData/Local/Programs/Python/Python37/python.exe" "c:/Users/Danielle Lavi/Desktop/תקשורת/Hackathon/Client.py"
-# "C:/Users/Danielle Lavi/AppData/Local/Programs/Python/Python37/python.exe" "c:/Users/Danielle Lavi/Downloads/תקשורת/Client.py"
 import socket
 import struct
 import keyboard
